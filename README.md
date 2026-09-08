@@ -1,6 +1,6 @@
 <img src="./header.svg" alt="Dmytro Prysukha — Senior Frontend Engineer · Valencia, Spain" width="100%">
 
-[LinkedIn](https://www.linkedin.com/in/dmitriy-prisukha/) · [CV](./dmytro_prysukha_senior_frontend_engineer.pdf) · [Email](mailto:prisuha1990@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dmitriy-prisukha/) · [CV](./Dmytro_Prysukha_Senior_Frontend_Engineer_CV_Public.pdf) · [Email](mailto:prisuha1990@gmail.com)
 
 I build production React and TypeScript applications with a focus on frontend architecture, complex business workflows, integrations, and scalable UI systems.
 
